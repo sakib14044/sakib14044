@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Sakibur Rahman
 #### Web Developer
 
-I'm a professional Web Developer. I have 3+ years of experience in this field specially HTML5, CSS3, Bootstrap5, PHP, jQuery plugins, and WordPress.Project quality & performance is my first priority. I enjoy learning and have a strong desire to learn about new versions. I love to do any work carefully from the beginning to the end. I always like to solve problems. I'm always ready to do any web design or development. I am committed & dedicated towards to my work.
+I'm a professional Web Developer. I have 3+ years of experience in this field specially HTML5, CSS3, Bootstrap5, PHP, jQuery plugins, and WordPress etc. Project quality & performance is my first priority. I enjoy learning and have a strong desire to learn about new versions. I love to do any work carefully from the beginning to the end. I always like to solve problems. I'm always ready to do any web design or development. I am committed & dedicated towards to my work.
 
 Skills:  HTML / CSS/BOOTSTRAP/PHP/WORDPRESS/THEME DEV
 
